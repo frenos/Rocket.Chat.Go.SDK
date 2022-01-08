@@ -1,4 +1,4 @@
-module github.com/frenos/Rocket.Chat.Go.SDK
+module github.com/RocketChat/Rocket.Chat.Go.SDK
 
 go 1.15
 
